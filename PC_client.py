@@ -6,11 +6,10 @@ from time import sleep
 
 '''---initialize-key-token-username-values-for-Airtable-and-Adafruit---'''
 #these values must remain hidden for security purposes
-
-AirTOKEN = "patpid0u4zKgSSFLx.a1eb213d9be25990bc8954c37f2122c04fb8d93a934b741033ff1ac6154aaa2a"
-AirID = "patpid0u4zKgSSFLx"
-AdaFrtUSER = "dlilly01"
-AdaFrtKEY = "aio_aPQT84YbDJr272PMLEmOmsTgAxTr"
+AirTOKEN = ""
+AirID = ""
+AdaFrtUSER = ""
+AdaFrtKEY = ""
 
 
 '''---set-up-connection-to-Adafruit-Dashboard---'''
